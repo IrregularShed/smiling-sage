@@ -1,1 +1,9 @@
-{}
+{
+  "main": [
+    {
+      "identifier": "toot",
+      "title": "Toot toot!",
+      "url": "http://example.com"
+    }
+  ]
+}
